@@ -1,0 +1,58 @@
+
+
+
+
+
+why Linux?
+Secure
+performance
+very less chances for attacks
+open source 
+
+unix - base os
+Linux distributions:
+redhat
+centos
+amazonlinux
+fedora
+ubuntu
+suse
+debian
+ibmaix
+hpux
+sunsolaris
+
+amazon Linux:
+types of users:
+admin: root   ( can do anything in system like installl, uninstal)
+normaal user: ec2-user,amar,pradeep, keerthi
+
+
+directory structure:
+
+/
+
+root home boot tmp etc dev bin sbin var usr lib mnt
+test
+test2
+
+
+/   --   kind of c   drive  
+
+/root   -- default folder for root user
+
+/home - for all normal user default folders availble here 
+  
+         /home/amar , /home/ec2-user , 
+
+
+
+
+
+
+
+
+
+
+
+
